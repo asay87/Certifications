@@ -1,31 +1,31 @@
 # 🎖️ Certifications — Ahmadou
-Ce dépôt regroupe toutes mes certifications professionnelles en cybersécurité, SOC, cloud, EDR/XDR et sécurité opérationnelle.  
-Chaque certification est accompagnée de son fichier PDF dans `/certs/`.
+This repository contains all my professional certifications in cybersecurity, SOC, cloud, EDR/XDR, and operational security.  
+Each certification is accompanied by its PDF file in `/certs/`.
 
 ---
 
-## 📂 Structure du dépôt
-- `/certs/microsoft/` — Certifs Microsoft Security  
-- `/certs/trendmicro/` — Certifs Trend Micro  
-- `/certs/others/` — Autres certifications (MITRE, Foundations…)
+## 📂 Repository structure
+- `/certs/Microsoft/` — Certifs Microsoft Security  
+- `/certs/Trend Micro/` — Certifs Trend Micro  
+- `/certs/others/` — Other certifications (MITRE, Foundations…)
 
 ---
 
-## 🏅 Statistiques rapides
+## 🏅 Quick statistics
 ![Total Certs](https://img.shields.io/badge/Certifications-12-blue?style=flat-square)
 
 ---
 
-# 📜 Liste des certifications
+# 📜 List of certifications
 
 ## 🔵 Microsoft Security Certifications
 
-| # | Certification | Code | PDF | Vérification |
-|---:|--------------|------|-----|--------------|
-| 1 | Microsoft Security Operations Analyst | SC-200 | [PDF](/certs/microsoft/sc200Ahmadou.pdf) | — |
-| 2 | Microsoft Information Protection Administrator | SC-100 | [PDF](/certs/microsoft/sc-100_Ahmadou.pdf) | — |
-| 3 | Microsoft Identity and Access Administrator | SC-300 | [PDF](/certs/microsoft/Ahmad_Sc300.pdf) | — |
-| 4 | Microsoft Azure Security Technologies | AZ-500 | [PDF](/certs/microsoft/AZ-500_Ahmadou.pdf) | — |
+| # | Certification | Code | PDF | 
+|---:|--------------|------|-----|
+| 1 | Microsoft Security Operations Analyst | SC-200 | [PDF](/certs/Microsoft/sc200Ahmadou.pdf) | 
+| 2 | Microsoft Information Protection Administrator | SC-100 | [PDF](/certs/Microsoft/sc-100_Ahmadou.pdf) | 
+| 3 | Microsoft Identity and Access Administrator | SC-300 | [PDF](/certs/Microsoft/Ahmad_Sc300.pdf) | 
+| 4 | Microsoft Azure Security Technologies | AZ-500 | [PDF](/certs/Microsoft/AZ-500_Ahmadou.pdf) | 
 
 ---
 
@@ -47,7 +47,7 @@ Chaque certification est accompagnée de son fichier PDF dans `/certs/`.
 
 | # | Certification | PDF |
 |---:|--------------|------|
-| 1 | MITRE ATT&CK — Basic | [PDF](/certs/Trend Micro/MITRE_Basic.pdf) |
+| 1 | MITRE ATT&CK — Basic | [PDF](/certs/Others/MITRE_Basic.pdf) |
 
 ---
 
