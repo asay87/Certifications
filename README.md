@@ -51,23 +51,5 @@ Chaque certification est accompagnée de son fichier PDF dans `/certs/`.
 
 ---
 
-## ➕ Ajouter une nouvelle certification
-1. Déposer le PDF dans `/certs/[dossier]`.  
-2. Ajouter une entrée dans le tableau correspondant.  
-3. Commit & push :
-```bash
-git add certs/* README.md
-git commit -m "Ajout nouvelle certification"
-git push
-```
 
----
-
-## 🎯 Objectif du dépôt
-- Centraliser mes preuves de certification  
-- Présenter mes compétences validées en cybersécurité  
-- Fournir une source fiable pour le recrutement et les collaborations  
-- Maintenir un suivi professionnel et vérifiable  
-
----
 
